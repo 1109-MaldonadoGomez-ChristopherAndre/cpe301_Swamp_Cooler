@@ -23,7 +23,7 @@ void setup() {
 
   rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
 }
-//sfa
+//sf
 void loop() {
  displayTimeUpdate();
 
